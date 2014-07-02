@@ -10,3 +10,5 @@ copy http://github.com/szeitlin/popviz
 and go to 
 
 http://nbviewer.ipython.org, paste the link and go! 
+
+Current cropped & labeled files are now: early.csv, middle.csv, recent.csv 
